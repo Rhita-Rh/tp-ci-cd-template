@@ -1,1 +1,1 @@
-this proect is done by student2
+this project is done by student2 and student1
